@@ -17,8 +17,8 @@
     <a href="https://nodejs.org/en/" title="javascript">
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://github.com/BenRed06" title="github">
-        <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" alt="python" width="40" height="40" />
+    <a href="https://html.com/" title="html">
+        <img src="https://clipartart.com/images/html-logo-clipart-6.jpg" alt="html" width="40" height="40" />
       </a>
     <a href="https://www.instagram.com/benred06/" title="instagram">
         <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
