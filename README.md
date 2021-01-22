@@ -8,6 +8,18 @@
     </a>
     <a href="https://www.python.org/" title="Python">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
+    
+    
+    
+<h3 align="center">below are my social links. please contact me in any way!</h3>    
+     </a>
+    <a href="twitter.com" title="twitter">
+        <img src="https://blog.acx.com/2015/04/09/tweet-this/" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org/" title="Python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
+    
+    
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
