@@ -24,6 +24,15 @@
         <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
     
     
+<h3 align="center">some of my featured repositories!!</h3>
+    
+    </p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=BenRed06&repo=github-readme-stats)](https://github.com/BenRed06/discord.py-explained)" />&nbsp;
+</p>
+    
+
+    
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
