@@ -27,7 +27,7 @@
 <h3 align="center">some of my featured repositories!!</h3>
  </a>
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=BenRed06&repo=discord.py-explained)](https://github.com/BenRed06/discord.py-explained)" />&nbsp;
+    <img height="150px" src="[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" />&nbsp;
 </p>
     
 
