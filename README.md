@@ -10,6 +10,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
 </p>
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=radical" alt="BenRed06" />
 </p>
