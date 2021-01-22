@@ -7,7 +7,7 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" title="Python">
-        <img src="https://en.wikiversity.org/wiki/Python_Concepts" alt="python" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leny32&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
