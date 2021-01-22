@@ -18,7 +18,7 @@
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://html.com/" title="html">
-        <img src="https://f1.pngfuel.com/png/930/119/770/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clip-art.png" alt="html" width="885" height="974" />
+        <img src="https://f1.pngfuel.com/png/930/119/770/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clip-art.png" alt="html" width="40" height="40" />
       </a>
     <a href="https://www.instagram.com/benred06/" title="instagram">
         <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
