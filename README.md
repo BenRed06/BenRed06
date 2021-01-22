@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! im BenRed06!</h1>
 <h3 align="center">im a 14 year old dev from new hampshire!</h3>
-<h3 align="center">below are the languages I know or am learning!</h3>
+<h3 align="center">below are the languages I know or am learning! and linux counts!</h3>
 <p align="center">
     </a>
     <a href="https://www.linuxfoundation.org/" title="Linux">
