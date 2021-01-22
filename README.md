@@ -34,7 +34,7 @@
         <img src="https://images-ext-1.discordapp.net/external/ROlmYUNlihztKAcAoxjPUIo4Z57wY_lN7VclSjLenrQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/800923195543650355/48d59b807b647b8d7928f3550a43d776.png?width=600&height=600" alt="dad jokes" width="40" height="40" />
 </p>
     
-
+</a>
     
 </p>
 <p align="center">
