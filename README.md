@@ -23,6 +23,9 @@
     <a href="https://devdocs.io/css/" title="CSS">
         <img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="CSS" width="40" height="40" />
     </a>
+    <a href="https://swift.org/documentation/" title="swift">
+        <img src="https://www.wamatechnology.com/wp-content/uploads/2019/07/1138px-Swift_logo.svg_.png" alt="swift" width="40" height="40" />
+    </a>
     
 
     
