@@ -20,8 +20,8 @@
     <a href="https://html.com/" title="html">
         <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
       </a>
-    <a href="https://www.instagram.com/benred06/" title="instagram">
-        <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
+    <a href="https://devdocs.io/css/" title="CSS">
+        <img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="CSS" width="40" height="40" />
     </a>
     
 
