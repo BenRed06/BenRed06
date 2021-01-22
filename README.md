@@ -27,7 +27,7 @@
 <h3 align="center">below are the top.gg links to my discord bots!</h3>
  </a>
 <p align="center">
-    <a href="https://www.python.org/" title="the office trivia">
+    <a href="https://top.gg/bot/697813566731845632" title="the office trivia">
         <img src="https://images-ext-1.discordapp.net/external/BWCeXza5nBePs7qHYyx6eNjO-b0aH9CcB3BJGomSPuM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/697813566731845632/91958c0ff23920005b90845ca0683470.png?width=600&height=600" alt="the office trivia" width="40" height="40" />
    </a>
 </p>
