@@ -35,5 +35,5 @@
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vuedark" alt="BenRed06" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vue-dark" alt="BenRed06" />
 </p>
