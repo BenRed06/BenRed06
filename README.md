@@ -22,7 +22,7 @@
       </a>
     <a href="https://www.instagram.com/benred06/" title="instagram">
         <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
-    
+    </a>
     
 <h3 align="center">some of my featured repositories!!</h3>
  </a>
