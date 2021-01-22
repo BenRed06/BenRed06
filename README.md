@@ -15,7 +15,7 @@
 <p align="center">
      </a>
     <a href="https://nodejs.org/en/" title="javascript">
-        <img src="http://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt="javascript" width="40" height="40" />
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://github.com/BenRed06" title="github">
         <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" alt="python" width="40" height="40" />
