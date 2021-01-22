@@ -10,6 +10,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
    
 <h3 align="center">below are my social links. please contact me in any way!</h3>    
+
 <p align="center">
      </a>
     <a href="https://twitter.com/Ben69810452" title="twitter">
