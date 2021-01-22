@@ -15,8 +15,8 @@
     <a href="https://twitter.com/Ben69810452" title="twitter">
         <img src="https://acxcom.files.wordpress.com/2015/04/twitter_logo_blue.png" alt="twitter" width="40" height="40" />
     </a>
-    <a href="https://www.python.org/" title="Python">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
+    <a href="https://www.python.org/" title="github">
+        <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" alt="python" width="40" height="40" />
     
     
 </p>
