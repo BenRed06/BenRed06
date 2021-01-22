@@ -29,7 +29,7 @@
 <p align="center">
     <a href="https://top.gg/bot/697813566731845632" title="the office trivia">
         <img src="https://images-ext-1.discordapp.net/external/BWCeXza5nBePs7qHYyx6eNjO-b0aH9CcB3BJGomSPuM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/697813566731845632/91958c0ff23920005b90845ca0683470.png?width=600&height=600" alt="the office trivia" width="40" height="40" />
-       </a>
+ </a>
 <p align="center">
     <a href="https://top.gg/bot/800923195543650355" title="dad jokes">
         <img src="https://images-ext-1.discordapp.net/external/ROlmYUNlihztKAcAoxjPUIo4Z57wY_lN7VclSjLenrQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/800923195543650355/48d59b807b647b8d7928f3550a43d776.png?width=600&height=600" alt="dad jokes" width="40" height="40" />
