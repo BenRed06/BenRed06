@@ -24,10 +24,12 @@
         <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="python" width="40" height="40" />
     </a>
     
-<h3 align="center">some of my featured repositories!!</h3>
+<h3 align="center">below are the top.gg links to my discord bots!</h3>
  </a>
 <p align="center">
-    <img height="150px" src="[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BenRed06&repo=discord.py-explained)](https://github.com/BenRed06/discord.py-explained)" />&nbsp;
+    <a href="https://www.python.org/" title="the office trivia">
+        <img src="https://images-ext-1.discordapp.net/external/BWCeXza5nBePs7qHYyx6eNjO-b0aH9CcB3BJGomSPuM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/697813566731845632/91958c0ff23920005b90845ca0683470.png?width=600&height=600" alt="the office trivia" width="40" height="40" />
+   </a>
 </p>
     
 
