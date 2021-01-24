@@ -9,6 +9,9 @@
     <a href= title="baseball">
         <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="baseball" width="40" height="40" />
    </a>
+         <a href= title="skiing">
+        <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="skiing" width="40" height="40" />
+   </a>
 <h3 align="center">below are the languages I know or am learning! and linux counts!</h3>
 <p align="center">
     </a>
