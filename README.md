@@ -26,6 +26,9 @@
     <a href="https://swift.org/documentation/" title="swift">
         <img src="https://www.wamatechnology.com/wp-content/uploads/2019/07/1138px-Swift_logo.svg_.png" alt="swift" width="40" height="40" />
     </a>
+       <a href="https://www.java.com/en/" title="java">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
+    </a>
     
 
     
