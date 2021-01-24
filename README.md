@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! im BenRed06!</h1>
-<h3 align="center">im a 14 year old dev who wants to be a pilot!</h1>
-<h3 align="center">below are some of my hobbies</h3>
+<h3 align="center">Im a 14 year old dev who wants to be a pilot!</h1>
+<h3 align="center">Below are some of my hobbies</h3>
 <p align="center">
     </a>
     <a href=title=" pilot">
@@ -12,7 +12,7 @@
       <a href= title="skiing">
         <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="skiing" width="40" height="40" />
    </a>
-<h3 align="center">below are the programming languages I know or am learning!</h3>
+<h3 align="center">Below are the programming languages I know or am learning!</h3>
 <p align="center">
     </a>
     <a href="https://www.python.org/" title="Python">
@@ -22,7 +22,7 @@
         <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
       </a>
    
-<h3 align="center">below are the languages I WANT to learn</h3>    
+<h3 align="center">Below are the languages I WANT to learn</h3>    
 
 <p align="center">
      </a>
@@ -39,13 +39,13 @@
         <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
     </a>
     
-<h3 align="center">below are ways you can contact me</h3> 
+<h3 align="center">Below are ways you can contact me</h3> 
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
         <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="40" height="40" />
     </a>
 
-<h3 align="center">below are my github profile stats</h3>    
+<h3 align="center">Below are my github profile stats</h3>    
 </a>
     
 </p>
