@@ -39,9 +39,12 @@
         <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
     </a>
     
+<h3 align="center">below are ways you can contact me</h3>  
+  <a href="https://www.java.com/en/" title="twitter">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="twitter" width="40" height="40" />
+    </a>
 
-
-    
+<h3 align="center">below are my github profilestats</h3>    
 </a>
     
 </p>
