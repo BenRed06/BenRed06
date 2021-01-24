@@ -9,6 +9,10 @@
     <a href="https://www.python.org/" title="Python">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
    </a>
+    </a>
+    <a href="https://html.com/" title="html">
+        <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
+      </a>
    
 <h3 align="center">below are the languages I WANT to learn</h3>    
 
@@ -16,10 +20,6 @@
      </a>
     <a href="https://nodejs.org/en/" title="javascript">
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://html.com/" title="html">
-        <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
-      </a>
     <a href="https://devdocs.io/css/" title="CSS">
         <img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="CSS" width="40" height="40" />
     </a>
