@@ -42,7 +42,7 @@
 <h3 align="center">below are ways you can contact me</h3> 
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
-        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="twitter" width="40" height="40" />
+        <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="40" height="40" />
     </a>
 
 <h3 align="center">below are my github profile stats</h3>    
