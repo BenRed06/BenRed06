@@ -4,10 +4,10 @@
 <p align="center">
     </a>
     <a href=title=" pilot">
-        <img src="http://icons.iconarchive.com/icons/google/noto-emoji-travel-places/1024/42586-airplane-icon.png" alt="linux" width="40" height="40" />
+        <img src="http://icons.iconarchive.com/icons/google/noto-emoji-travel-places/1024/42586-airplane-icon.png" alt="pilot" width="40" height="40" />
     </a>
-    <a href="https://www.python.org/" title="Python">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
+    <a href= title="baseball">
+        <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="baseball" width="40" height="40" />
    </a>
 <h3 align="center">below are the languages I know or am learning! and linux counts!</h3>
 <p align="center">
@@ -39,6 +39,7 @@
         <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
     </a>
     
+
 
     
 </a>
