@@ -29,13 +29,13 @@
 <br>
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
-        <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="100" height="100" />
+        <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="75" height="75" />
     </a>
      <a href="https://discord.gg/hsrnUuJXQk" title="discord">
-        <img src="https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png" alt="discord" width="100" height="100" />
+        <img src="https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png" alt="discord" width="75" height="75" />
     </a>
        <a href="https://www.instagram.com/benred06/" title="instagram">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="instagram" width="100" height="100" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="instagram" width="75" height="75" />
     </a>
 <br>
 <br>
