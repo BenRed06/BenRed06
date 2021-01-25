@@ -18,6 +18,7 @@
 <li> I love flying, I want to be a navy pilot </li>
 <li> I like to play baseball.  </li>
 <li> I like to code (obviously) </li>
+<li> I am trying to learn to code so dont get mad if my code is bad </li>
 </ul>
 </a>
    <br>
