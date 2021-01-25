@@ -40,6 +40,7 @@
   
   <br>
   <h2 align="center">here are my github stats</h2> 
+  <br>
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
