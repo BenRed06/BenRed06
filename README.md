@@ -28,7 +28,7 @@
 <h2 align="center">here are some ways you can contact me.</h2> 
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
-        <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="40" height="40" />
+        <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="100" height="100" />
     </a>
      <a href="https://discord.gg/hsrnUuJXQk" title="discord">
         <img src="https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png" alt="discord" width="100" height="100" />
@@ -46,7 +46,6 @@
 
 
 
-
 <br>
 <br>
 <br>
@@ -63,12 +62,6 @@
 <br>
 <br>
 <br>
-
-
-
-
-
-
 
 
 <footer>
