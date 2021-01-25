@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! My Name Is Ben!</h1>
 <br>
-
+<br>
 <h2 align="center"> About Me </h2>
 <br>
 <h5> Im from suburban Massachusetts but spend a lot of my time in the mountains of new hampshire. Im a freshman in highschool and get decent grades. I like to code. I make discord bots for fun. I have a verified bot, the office triva. I recently started learning HTML and want to learn other coding languages.</h5>
