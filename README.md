@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! My name is Ben!</h1>
+<h1 align="center">Hi There! My Name Is Ben!</h1>
 <br>
 
-<h2 align="center"> About me </h2>
+<h2 align="center"> About Me </h2>
 <br>
 <h5> Im from suburban Massachusetts but spend a lot of my time in the mountains of new hampshire. Im a freshman in highschool and get decent grades. I like to code. I make discord bots for fun. I have a verified bot, the office triva. I recently started learning HTML and want to learn other coding languages.</h5>
 
@@ -11,20 +11,20 @@
 <h4 align="center">--------------------------------------------------------------------------------------------------------</h4>
 <br>
 
-<h2 align="center">Fun facts about me</h2>
+<h2 align="center">Fun Facts About Me</h2>
 <p align="center"> 
   <ul>
-<li> every weekend we go skiing. I love skiing. I have been skiing since I was 3. </li>
+<li> every weekend my family and I go skiing. I love skiing. I have been skiing since I was 3. </li>
 <li> I love flying, I want to be a navy pilot </li>
 <li> I like to play baseball.  </li>
 <li> I like to code (obviously) </li>
-<li> I am trying to learn to code so dont get mad if my code is bad </li>
+<li> I have a dog, she is a year old bernedoodle (bernies mountain dog and poodle mix) her name is "cleo" </li>
 </ul>
 </a>
    <br>
    <br>
 
-<h2 align="center">here are some ways you can contact me.</h2> 
+<h2 align="center">Here Are Some Ways You Can Contact me.</h2> 
 <br>
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
@@ -36,20 +36,13 @@
        <a href="https://www.instagram.com/benred06/" title="instagram">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="instagram" width="100" height="100" />
     </a>
-
 <br>
-<br>
-<h2 align="center">here are my github stats</h2> 
-</p>
-
-<br>
-<br>
-<br>
-
+  <br>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vue-dark" alt="BenRed06" />
 </p>
+
 <br>
 <br>
 <br>
@@ -66,9 +59,13 @@
 <br>
 
 
+
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
 
 <footer>
   <p>Author: Ben Redmond</p>
   <p><a href="mailto:contact@benred.me">contact me: contact@benred.me</a></p>
   <p>copyright: 2021</p>
 </footer>
+
+
