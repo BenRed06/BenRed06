@@ -19,6 +19,7 @@
 <li> I like to play baseball.  </li>
 <li> I like to code (obviously) </li>
 <li> I have a dog, she is a year old bernedoodle (bernies mountain dog and poodle mix) her name is "cleo" </li>
+<li> I love to hike, I recently hiked every trail in my town. the total is 125.5 miles!</li>
 </ul>
 </a>
    <br>
