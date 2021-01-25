@@ -36,7 +36,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="instagram" width="100" height="100" />
     </a>
 
-
+<br>
 <h2 align="center">here are my github stats</h2> 
 </p>
 <p align="center">
