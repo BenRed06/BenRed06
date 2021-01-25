@@ -1,45 +1,31 @@
-<h1 align="center">Hi there! Im BenRed06!</h1>
-<h3 align="center">Im a 14 year old dev who wants to be a pilot!</h1>
-<h3 align="center">Below are some of my hobbies</h3>
-<p align="center">
-    </a>
-    <a href=title=" pilot">
-        <img src="http://icons.iconarchive.com/icons/google/noto-emoji-travel-places/1024/42586-airplane-icon.png" alt="pilot" width="40" height="40" />
-    </a>
-    <a href= title="baseball">
-        <img src="http://www.emoji.co.uk/files/emoji-one/activity-emoji-one/1682-skier.png" alt="baseball" width="40" height="40" />
-   </a>
-      <a href= title="skiing">
-        <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="skiing" width="40" height="40" />
-   </a>
-<h3 align="center">Below are the programming languages I know or am learning!</h3>
-<p align="center">
-    </a>
-    <a href=title="Python">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
-   </a>
-      <a href=title="html">
-        <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
-      </a>
-   
-<h3 align="center">Below are the languages I WANT to learn</h3>    
+<h1 align="center">Hi there! My name is Ben!</h1>
 
-<p align="center">
-     </a>
-    <a href=title="javascript">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
-    </a>
-    <a href=title="CSS">
-        <img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="CSS" width="40" height="40" />
-    </a>
-    <a href=title="swift">
-        <img src="https://www.wamatechnology.com/wp-content/uploads/2019/07/1138px-Swift_logo.svg_.png" alt="swift" width="40" height="40" />
-    </a>
-       <a href=title="java">
-        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
-    </a>
+<h2 align="center"> about me </h2>
+<h5> Im from suburban Massachusetts but spend a lot of my time in the mountains of new hampshire. Im a freshman in highschool and get decent grades</h5>
+
+
+
+
+
+
+
+
+
+
+<h4 align="center">--------------------------------------------------------------------------------------------------------</h4>
+
+
+<h2 align="center">Below are some of my hobbies</h2>
+<p align="center"> 
+  <ul>
+<li> every weekend we go skiing. I love skiing. I have been skiing since I was 3. </li>
+<li> I love flying, I want to be a navy pilot </li>
+<li> I like to play baseball.  </li>
+<li> I like to code. </li>
+</ul>
+</a>
     
-<h3 align="center">Below are ways you can contact me</h3> 
+<h2 align="center">here are some ways you can contact me</h2> 
 <p align="center">
   <a href="https://twitter.com/Ben69810452" title="twitter">
         <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="40" height="40" />
@@ -51,11 +37,19 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="instagram" width="40" height="40" />
     </a>
 
-<h3 align="center">Below are my github profile stats</h3>    
-</a>
+
+
+
     
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vue-dark" alt="BenRed06" />
 </p>
+
+
+<footer>
+  <p>Author: Ben Redmond</p>
+  <p><a href="contact:">contact@benred.me</a></p>
+  <p>copyright:2021</p>
+</footer>
