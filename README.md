@@ -64,5 +64,5 @@
 <footer>
   <p>Author: Ben Redmond</p>
   <p><a href="mailto:contact@benred.me">contact me: contact@benred.me</a></p>
-  <p>copyright:2021</p>
+  <p>copyright: 2021</p>
 </footer>
