@@ -28,7 +28,7 @@
 <h2 align="center">Here Are Some Ways You Can Contact me.</h2> 
 <br>
 <p align="center">
-  <a href="https://twitter.com/Ben69810452" title="twitter">
+  <a href="https://twitter.com/Ben_Red06" title="twitter">
         <img src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" alt="twitter" width="75" height="75" />
     </a>
      <a href="https://discord.gg/hsrnUuJXQk" title="discord">
