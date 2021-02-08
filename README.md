@@ -112,9 +112,6 @@
 
 <br>
  
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
-
-<title>Benred.me</title>
 
 <footer>
   <h4>Author: Ben Redmond</h4>
