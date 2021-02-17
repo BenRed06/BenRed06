@@ -53,22 +53,6 @@
 
 <br>
 
-<h2 align="center">Bots</h2> 
-
-<p align="center">
-<a href="https://top.gg/bot/800923195543650355">
-    <img src="https://top.gg/api/widget/800923195543650355.svg" alt="Dad Jokes" width="350" height="350" />
-</a>
-
-<p align="center">
-<a href="https://top.gg/bot/697813566731845632">
-    <img src="https://top.gg/api/widget/697813566731845632.svg" alt="The office trivia" width="350" height="350" />
-</a>
-
-<br>
-
-<br>
-
 <h2 align="center">Github Stats</h2> 
 
 <br>
@@ -83,43 +67,3 @@
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vue-dark" alt="BenRed06" />
 </p>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
- 
-
-<footer>
-  <h4>Author: Ben Redmond</h4>
-  <h5><a href="mailto:contact@benred.moment">contact me: contact.benred.me</a><h5>
-  <h5>© 2021 all rights reserved<h5>
-</footer>
-
-
-
-
-
