@@ -56,10 +56,9 @@
 <h2 align="center">Github Stats</h2> 
 
 <br>
-<p align="center>
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=BenRed06&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
+
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
 </h3>
-</p>
 
 <br>
 
