@@ -82,4 +82,4 @@
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenRed06)
+[![BenRed06's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenRed06)
