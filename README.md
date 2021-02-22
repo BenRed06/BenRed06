@@ -1,5 +1,7 @@
 <h1 align="center">Hi There! My Name Is Ben!</h1>
 
+<img src="https://komarev.com/ghpvc/?username=BenRed06" alt="" align="center" />
+
 <br> 
 
 <h2 align="center"> About</h2>
