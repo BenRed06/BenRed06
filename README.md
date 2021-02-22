@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! My Name Is Ben!</h1>
 
-<img src="https://komarev.com/ghpvc/?username=BenRed06" alt="" align="center" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BenRed06" alt="" /> </p>
 
 <br> 
 
