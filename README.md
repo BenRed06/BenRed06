@@ -81,5 +81,7 @@
 <br>
 
 <br>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=BenRed06)](https://github.com/BenRed06/github-readme-stats" alt="BenRed06" />
+</p>
 
-[![BenRed06's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenRed06)
