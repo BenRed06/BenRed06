@@ -83,9 +83,5 @@
 <br>
 
 
-<p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=BenRed06)](https://github.com/anuraghazra/github-readme-stats" alt="BenRed06" />
-</p>
-
 
 
